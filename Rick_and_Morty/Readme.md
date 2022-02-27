@@ -27,7 +27,7 @@
 
     df[['name','count_episode']].sort_values(by='count_episode',ascending=False).head(10)
     
-	name	count_episode
+name	count_episode
 0	Rick Sanchez	51
 1	Morty Smith	51
 2	Summer Smith	42
