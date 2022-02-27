@@ -27,14 +27,4 @@
 
     df[['name','count_episode']].sort_values(by='count_episode',ascending=False).head(10)
     
- name	count_episode
- 0	Rick Sanchez	51
- 1	Morty Smith	51
- 2	Summer Smith	42
- 3	Beth Smith	42
- 4	Jerry Smith	39
- 179	Jessica	12
- 239	Mr. Goldenfold	10
- 37	Beth Smith	8
- 328	Snuffles (Snowball)	8
- 180	Jessica's Friend	8
+Джессика! Впрочем, это неудивительно. Удивительно, что есть ещё одна Бет. Да и Джерри не было 12 серий. Странно
