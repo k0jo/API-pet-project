@@ -10,7 +10,7 @@
 Импортируем библиотеки. Ознакомившись с [документацией](https://rickandmortyapi.com/documentation/#get-all-characters) понимаем, что можно получить данные по всем персонажам добавив к запросу список с их *id*. Писать вручную 800 цифр многовато, поэтому:
 
     list_id = []
-for i in range(1,827):
-    list_id.append(i)
+    for i in range(1,827):
+        list_id.append(i)
     
 Создаём список циклом.
